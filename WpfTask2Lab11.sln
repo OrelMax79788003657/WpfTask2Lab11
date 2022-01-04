@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfTask2Lab11", "WpfTask2Lab11\WpfTask2Lab11.csproj", "{992D64F3-DAE1-427F-B693-BD93D0C1A5BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{992D64F3-DAE1-427F-B693-BD93D0C1A5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992D64F3-DAE1-427F-B693-BD93D0C1A5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992D64F3-DAE1-427F-B693-BD93D0C1A5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992D64F3-DAE1-427F-B693-BD93D0C1A5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D2A2795-E405-42CF-A750-A095C8FC9E67}
+	EndGlobalSection
+EndGlobal
